@@ -1,1 +1,4 @@
-# docker-ruby
+docker-ruby
+===========
+
+Ruby docker image.
